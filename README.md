@@ -1,6 +1,6 @@
 # Global_Impact_IoT
 
-# Skorpio View
+# Grupo SHARKS
 
 **nome dos alunos:** 
 Natam Alves Da Mata - RM 85995 <br>
