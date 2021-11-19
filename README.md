@@ -25,4 +25,4 @@ Um sistema de aprendizado de máquina capaz de realizar a seleção de linhagens
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/9Zdw7Axcdd0)
