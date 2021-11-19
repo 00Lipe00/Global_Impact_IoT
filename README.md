@@ -2,7 +2,7 @@
 
 # Grupo SHARKS
 
-**nome dos alunos:** 
+**nome dos alunos:** <br>
 Natam Alves Da Mata - RM 85995 <br>
 Pedro Utida Gomes da Silva - RM 84646 <br>
 Igor Ferreira Calbo - RM 81274 <br>
